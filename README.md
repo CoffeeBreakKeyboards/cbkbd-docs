@@ -4,4 +4,4 @@ This repository will host documentation for all CBKBD projects.<br>
 ## PCBs <br>
 ### [Coffeevan](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/tree/main/coffeevan)
 ### [QAZ](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/tree/main/qaz)
-### [Plop](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/tree/main/plop)
+### [Plop (WIP)](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/tree/main/plop)
