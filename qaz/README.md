@@ -16,11 +16,11 @@ A few 10.25u PCBs sold by Coffee Break Keyboards.
 
 
 ## Resources
-[Hotswap PCB .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/qaz/qazv2hs.step)
+[Hotswap PCB .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/qaz/qazv2hs.STEP)
 <br>
-[Hotswap PCB .DXF](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/qaz/qazv2hs.dxf)
+[Hotswap PCB .DXF](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/qaz/qazv2hs.dxf)
 <br>
-[Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/qaz/firmware/qazv2vial.uf2)
+[Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/qaz/firmware/qazv2vial.uf2)
 <br>
 [Firmware Source](https://github.com/Armastardo/vial-qmk/tree/qw-develop/keyboards/quark_works/qaz_rp2040)
 
