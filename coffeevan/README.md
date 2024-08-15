@@ -12,7 +12,7 @@ A series of 40% PCBs sold by Coffee Break Keyboards, compatible with many Miniva
 - Uses Minisub layout
 - PCB mount stabilizers
 - RGB Underglow
-- JST and ezMate connectors (HS only)
+- JST and ezMate connectors
 - Hotswap designed by Quark, Solder designed by Snipeye
 
 
