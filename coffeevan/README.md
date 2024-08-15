@@ -12,6 +12,7 @@ A series of 40% PCBs sold by Coffee Break Keyboards, compatible with many Miniva
 - Uses Minisub layout
 - PCB mount stabilizers
 - RGB Underglow
+- JST and ezMate connectors (HS only)
 - Hotswap designed by Quark, Solder designed by Snipeye
 
 
@@ -23,3 +24,16 @@ A series of 40% PCBs sold by Coffee Break Keyboards, compatible with many Miniva
 [Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/firmware/coffeevan_vial.uf2)
 <br>
 [Firmware Source](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/firmware/coffeevan/)
+
+
+
+<details>
+<summary><h2>Coffeevan Version History</h2></summary>
+
+- v1.0 (Hotswap)
+    - Initial hotswap release, borked spacebar stabs
+
+- v1.0a (Hotswap)
+    - Spacebar stabilizers fixed
+
+</details>
