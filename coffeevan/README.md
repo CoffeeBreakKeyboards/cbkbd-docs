@@ -17,11 +17,11 @@ A series of 40% PCBs sold by Coffee Break Keyboards, compatible with many Miniva
 
 
 ## Resources
-[Hotswap PCB .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/coffeevanhs.step)
+[Hotswap PCB .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/coffeevan/coffeevanhs.step)
 <br>
-[Hotswap PCB .DXF](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/coffeevanhs.dxf)
+[Hotswap PCB .DXF](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/coffeevan/coffeevanhs.dxf)
 <br>
-[Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/firmware/coffeevan_vial.uf2)
+[Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/coffeevan/firmware/coffeevan_vial.uf2)
 <br>
 [Firmware Source](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/firmware/coffeevan/)
 
