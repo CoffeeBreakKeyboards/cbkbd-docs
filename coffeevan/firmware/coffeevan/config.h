@@ -20,6 +20,6 @@
 //#define NO_ACTION_ONESHOT
 
 // The pin connected to the data pin of the LEDs
-#define RGB_DI_PIN GP16
+#define WS2812_DI_PIN GP16
 // The number of LEDs connected
 #define RGB_MATRIX_LED_COUNT 20
